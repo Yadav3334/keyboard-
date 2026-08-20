@@ -1,0 +1,6 @@
+{
+  "name": "Keyboard Settings",
+  "description": "Input Method application with custom launcher icon visibility controls via activity-alias",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

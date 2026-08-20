@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Keyboard Settings</string>
+    <string name="keyboard_service_name">Sample Keyboard</string>
+    <string name="subtype_en_us">English (US)</string>
+    <string name="settings_title">Keyboard &amp; Icon Settings</string>
+    <string name="launcher_icon_title">Show Launcher Icon</string>
+    <string name="launcher_icon_desc">Control whether this app appears in your home screen and app drawer.</string>
+    <string name="launcher_icon_visible_status">Icon is visible in app drawer</string>
+    <string name="launcher_icon_hidden_status">Icon is hidden from app drawer</string>
+    <string name="btn_enable_keyboard">1. Manage Keyboards in Settings</string>
+    <string name="btn_switch_keyboard">2. Switch Input Method</string>
+    <string name="test_keyboard_hint">Tap here to test the keyboard...</string>
+    <string name="status_title">Keyboard Integration Status</string>
+    <string name="status_enabled">Keyboard Enabled in System</string>
+    <string name="status_disabled">Keyboard Not Enabled</string>
+    <string name="status_active">Active Input Method</string>
+    <string name="status_inactive">Not Currently Selected</string>
+    <string name="guide_title">How to Access Settings If Hidden</string>
+    <string name="guide_content">If you hide the app icon, you can always open these settings anytime from Android Settings &gt; System &gt; Languages &amp; input &gt; On-screen keyboard &gt; Sample Keyboard, or via the Settings button on the keyboard itself.</string>
+    <string name="hide_dialog_title">Hide Launcher Icon?</string>
+    <string name="hide_dialog_message">The launcher icon will be removed from your home screen and app drawer.\n\nYou will still be able to open settings directly from Android Keyboard Settings or the keyboard itself.</string>
+    <string name="hide_dialog_confirm">Hide Icon</string>
+    <string name="hide_dialog_cancel">Keep Visible</string>
+</resources>
